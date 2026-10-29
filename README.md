@@ -57,4 +57,5 @@ o resultado por quatro.
 
 ## Autor
 
-Escreva aqui seu nome completo.
+arthur
+
